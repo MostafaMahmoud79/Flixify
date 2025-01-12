@@ -2,7 +2,7 @@
 
 ## A Fully Functional AI-Powered Movie Web Application 🤖🎬🍿
 
-This Application ([Flixify]()) is a fully functional Movie Web Application with an AI-Assistant who can help you through voice commands with a lot of things like saying:
+This Application ([Flixify](https://flixify-mauve.vercel.app/)) is a fully functional Movie Web Application with an AI-Assistant who can help you through voice commands with a lot of things like saying:
 
 1. "Make it light/dark" => to toggle the application theme.
 2. "Log me in" => to Login
